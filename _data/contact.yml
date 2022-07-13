@@ -1,0 +1,12 @@
+location:
+  address: 50 Station St, Sandringham VIC 3191
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50320.90354830399!2d144.94639285820315!3d-37.9758114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66fdcb421697d%3A0xd6022da67d2b2a32!2sOur%20Little%20Ray%20of%20Sunshine!5e0!3m2!1sen!2sau!4v1657697141166!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/ourlittlerayofsunshine/
+  - platform: email
+    link: mailto:ourlittlerayofsunshinecafe@gmail.com
+  - platform: phone
+    link: tel:0395218074

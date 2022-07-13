@@ -1,0 +1,5 @@
+name: Our Little Ray of Sunshine
+description: Beachside brunch in the heart of Sandringham, serving great food and coffee! Dog-friendly seating and takeaway available.
+color_profile: light  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#5FADDB"
